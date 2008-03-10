@@ -1,5 +1,8 @@
 Revision history for WWW-PhpfiCom-Retrieve
 
+0.002   Mar 10, 2008
+        Fixed broken test suite
+
 0.001   Mar 9, 2008
         First version, released on an unsuspecting world.
 
